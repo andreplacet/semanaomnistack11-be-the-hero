@@ -35,6 +35,6 @@ See how the Mobile App works and how to use in this page: [Mobile](https://githu
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/andreplacet"><img src="https://avatars3.githubusercontent.com/u/50382976?s=400&u=e91e2610d450f49bc5d4a6f771c01b32f3f3c854&v=4 width="100px;" alt=""/><br /><sub><b>Lucas Vieira</b></sub></a><br /><a href="https://github.com/Lukazovic/be-the-hero" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/andreplacet"><img src="https://avatars3.githubusercontent.com/u/50382976?s=400&u=e91e2610d450f49bc5d4a6f771c01b32f3f3c854&v=4 width="100px;" alt=""/><br /><sub><b>André Luiz</b></sub></a><br /><a href="https://github.com/andreplacet/semanaomnistack11-be-the-hero" title="Code">💻</a></td>
   <tr>
 </table>
